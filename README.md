@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full-Stack developer -> AI ML Enthusiast</h3>
 
  
-<h3>Things I code with</h3>
 <h3>Technologies I Code With</h3>
 
 <!-- Increased badge size by changing 'flat-square' to 'for-the-badge' for larger visuals -->
